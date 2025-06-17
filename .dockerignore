@@ -1,0 +1,5 @@
+.git/
+.venv/
+.python-version
+pyproject.toml
+README.md
